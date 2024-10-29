@@ -69,7 +69,7 @@ Pentru fiecare dovleac găsit, veți fi recompensat cu un număr de bomboane ce 
 Acest eveniment este unul cu o dificultate medie.  
 Quest-ul poate fi început de la NPC-ul specific acestuia, NPC ce poate fi localizat din telefonul mobil, aplicația **Maps** sub categoria **Halloween**.
 
-Acest quest vă va schimba vremea de pe server, aceasta devenind una posomorâtă, cu ploaie, fulgere și multe alte efecte speciale. \
+Pentru o imersiune mai bună, acest quest poate fi realizat alături de vremea `HALLOWEEN` , aceasta devenind una posomorâtă, cu ploaie, fulgere și multe alte efecte speciale. \
 Pe harta din 'ESC' vă vor fi afișate 30 locații ale fantomelor pe care va trebui să le fotografiati.
 
 Pentru a fotografia o fantomă, va trebui să deschideți telefonul prin tasta `KEY UP` și să selectați iconița special dedicată camerei, odată deschisă, va trebui îndreptată spre fantomă și apăsat `MOUSE LEFT BUTTON` pentru a o fotografia.
